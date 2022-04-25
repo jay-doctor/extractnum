@@ -1,2 +1,5 @@
 __pycache__
 media1
+migrations
+.venv
+db.sqlite3
